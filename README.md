@@ -1,4 +1,3 @@
 #DEMO
 
-a description!
 briefly
