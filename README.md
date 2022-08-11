@@ -1,3 +1,3 @@
 #DEMO
 
-a project description.
+a description!
